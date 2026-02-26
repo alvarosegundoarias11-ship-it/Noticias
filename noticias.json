@@ -1,50 +1,32 @@
 {
-  "version": 1,
+  "version": 2,
   "actualizado": "2026-02-26",
   "noticias": [
     {
-      "id": "001",
-      "fecha": "26 feb 2026",
+      "id": "003",
+      "fecha": "25 feb 2026",
       "categoria": "Euríbor",
-      "titulo": "El Euríbor sube en febrero hasta el 2,221% de media mensual",
-      "resumen": "El Euríbor diario ha aumentado hasta el 2,208% el 25 de febrero, lo que supone una subida de 0,002 puntos respecto al día anterior. La media mensual de febrero se sitúa en el 2,221%.",
-      "url": "https://www.expansion.com/mercados/euribor.html",
+      "titulo": "Euríbor 25 feb: sube hasta el 2,208% por tercer día consecutivo",
+      "resumen": "Tras la subida del Euríbor, la media mensual se sitúa en 2,221% en febrero, lo que supone una disminución de 0,024 puntos respecto al día anterior. El Euríbor hoy, miércoles 25 de febrero de 2026, aumenta hasta el 2,208%, 0,002 puntos por encima del valor registrado la jornada anterior y continúa su escalada por tercer día consecutivo.",
+      "url": "https://www.expansion.com/mercados/euribor/2026/02/25/699eddafe5fdead0468b4595.html",
       "destacada": true
     },
     {
       "id": "002",
-      "fecha": "24 feb 2026",
-      "categoria": "Tipos de interés",
-      "titulo": "El BCE mantiene los tipos en el 2,65% a la espera de datos de inflación",
-      "resumen": "El Banco Central Europeo ha decidido mantener los tipos de interés sin cambios en su última reunión, a la espera de confirmar la tendencia bajista de la inflación en la eurozona.",
-      "url": "",
+      "fecha": "23 feb 2026",
+      "categoria": "Euríbor",
+      "titulo": "Euríbor 23 feb: se mantiene estable en el 2,205%",
+      "resumen": "Con el último descenso del Euríbor, la media mensual se sitúa en 2,223% en febrero, lo que supone una disminución de 0,022 puntos respecto al día anterior. Hoy, 23 de febrero de 2026, el valor diario del Euríbor se mantiene en el 2,205%, sin variación respecto a la jornada anterior.",
+      "url": "https://www.expansion.com/mercados/euribor/2026/02/23/699c6c9be5fdea65278b457f.html",
       "destacada": false
     },
     {
-      "id": "003",
+      "id": "001",
       "fecha": "20 feb 2026",
-      "categoria": "Hipotecas",
-      "titulo": "Las hipotecas fijas por debajo del 3% vuelven a los escaparates de la banca",
-      "resumen": "Varios bancos han comenzado a ofrecer hipotecas fijas con tipos de interés inferiores al 3% TAE, la cifra más baja desde 2022. ING y Unicaja lideran la oferta más competitiva del mercado.",
-      "url": "",
-      "destacada": false
-    },
-    {
-      "id": "004",
-      "fecha": "18 feb 2026",
-      "categoria": "Mercado inmobiliario",
-      "titulo": "La compraventa de viviendas crece un 8% interanual en enero de 2026",
-      "resumen": "El INE registra 58.000 operaciones de compraventa en enero, impulsadas por la bajada del Euríbor y la mayor accesibilidad hipotecaria. Madrid y Barcelona concentran el 35% de las operaciones.",
-      "url": "",
-      "destacada": false
-    },
-    {
-      "id": "005",
-      "fecha": "15 feb 2026",
-      "categoria": "Consejos",
-      "titulo": "Claves para negociar con el banco y conseguir la mejor hipoteca",
-      "resumen": "Expertos en finanzas personales explican cómo preparar el perfil financiero antes de solicitar una hipoteca: reducir deudas, mejorar el ahorro y presentar documentación sólida son los factores clave.",
-      "url": "",
+      "categoria": "Euríbor",
+      "titulo": "Euríbor 20 feb: sube hasta el 2,205%, media mensual en 2,224%",
+      "resumen": "Tras la subida del Euríbor, la media mensual se sitúa en 2,224% en febrero, lo que supone un descenso de 0,021 puntos respecto al día anterior. El Euríbor hoy, viernes 20 de febrero de 2026, aumenta hasta el 2,205%, 0,007 puntos por encima del valor registrado la jornada anterior.",
+      "url": "https://www.expansion.com/mercados/euribor/2026/02/20/",
       "destacada": false
     }
   ]
