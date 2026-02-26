@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "actualizado": "2026-02-26",
+  "noticias": [
+    {
+      "id": "001",
+      "fecha": "26 feb 2026",
+      "categoria": "Euríbor",
+      "titulo": "El Euríbor sube en febrero hasta el 2,221% de media mensual",
+      "resumen": "El Euríbor diario ha aumentado hasta el 2,208% el 25 de febrero, lo que supone una subida de 0,002 puntos respecto al día anterior. La media mensual de febrero se sitúa en el 2,221%.",
+      "url": "https://www.expansion.com/mercados/euribor.html",
+      "destacada": true
+    },
+    {
+      "id": "002",
+      "fecha": "24 feb 2026",
+      "categoria": "Tipos de interés",
+      "titulo": "El BCE mantiene los tipos en el 2,65% a la espera de datos de inflación",
+      "resumen": "El Banco Central Europeo ha decidido mantener los tipos de interés sin cambios en su última reunión, a la espera de confirmar la tendencia bajista de la inflación en la eurozona.",
+      "url": "",
+      "destacada": false
+    },
+    {
+      "id": "003",
+      "fecha": "20 feb 2026",
+      "categoria": "Hipotecas",
+      "titulo": "Las hipotecas fijas por debajo del 3% vuelven a los escaparates de la banca",
+      "resumen": "Varios bancos han comenzado a ofrecer hipotecas fijas con tipos de interés inferiores al 3% TAE, la cifra más baja desde 2022. ING y Unicaja lideran la oferta más competitiva del mercado.",
+      "url": "",
+      "destacada": false
+    },
+    {
+      "id": "004",
+      "fecha": "18 feb 2026",
+      "categoria": "Mercado inmobiliario",
+      "titulo": "La compraventa de viviendas crece un 8% interanual en enero de 2026",
+      "resumen": "El INE registra 58.000 operaciones de compraventa en enero, impulsadas por la bajada del Euríbor y la mayor accesibilidad hipotecaria. Madrid y Barcelona concentran el 35% de las operaciones.",
+      "url": "",
+      "destacada": false
+    },
+    {
+      "id": "005",
+      "fecha": "15 feb 2026",
+      "categoria": "Consejos",
+      "titulo": "Claves para negociar con el banco y conseguir la mejor hipoteca",
+      "resumen": "Expertos en finanzas personales explican cómo preparar el perfil financiero antes de solicitar una hipoteca: reducir deudas, mejorar el ahorro y presentar documentación sólida son los factores clave.",
+      "url": "",
+      "destacada": false
+    }
+  ]
+}
