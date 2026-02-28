@@ -1,7 +1,16 @@
 {
   "version": 2,
-  "actualizado": "2026-02-26",
+  "actualizado": "2026-02-28",
   "noticias": [
+    {
+      "id": "004",
+      "fecha": "28 feb 2026",
+      "categoria": "EURÍBOR",
+      "titulo": "El euríbor sorprende en febrero: baja al 2,22% y abarata miles de hipotecas pese a la tensión global",
+      "resumen": "El euríbor cierra febrero en el 2,22%, su nivel más bajo en meses. Las hipotecas variables que se revisen ahora notarán una reducción significativa en su cuota mensual, un respiro para las familias pese al contexto de incertidumbre global.",
+      "url": "https://www.elperiodico.com/es/economia/20260225/euribor-febrero-2026-baja-2-22-hipotecas-variables-cuotas-bancos-bce-127258609",
+      "destacada": true
+    },
     {
       "id": "003",
       "fecha": "25 feb 2026",
@@ -9,7 +18,7 @@
       "titulo": "Euríbor 25 feb: sube hasta el 2,208% por tercer día consecutivo",
       "resumen": "Tras la subida del Euríbor, la media mensual se sitúa en 2,221% en febrero, lo que supone una disminución de 0,024 puntos respecto al día anterior. El Euríbor hoy, miércoles 25 de febrero de 2026, aumenta hasta el 2,208%, 0,002 puntos por encima del valor registrado la jornada anterior y continúa su escalada por tercer día consecutivo.",
       "url": "https://www.expansion.com/mercados/euribor/2026/02/25/699eddafe5fdead0468b4595.html",
-      "destacada": true
+      "destacada": false
     },
     {
       "id": "002",
