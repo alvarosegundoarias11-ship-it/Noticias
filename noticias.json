@@ -1,15 +1,51 @@
 {
   "version": 2,
-  "actualizado": "2026-02-28",
+  "actualizado": "2026-03-07",
   "noticias": [
+    {
+      "id": "008",
+      "fecha": "7 mar 2026",
+      "categoria": "EURÍBOR",
+      "titulo": "El euríbor de marzo pinta mal: el conflicto en Irán dispara el índice al 2,32%",
+      "resumen": "Marzo está siendo un mes especialmente negativo para el euríbor. El conflicto en Irán ha reavivado las alarmas inflacionistas y el índice ha escalado hasta el 2,323%, su máximo de 2026. La media provisional del mes se sitúa en el 2,281%, por encima de febrero. La reunión del BCE del 19 de marzo será clave para saber si continúan las bajadas de tipos.",
+      "url": "https://www.euribor.com.es/2026/03/07/euribor-marzo-2026-pinta-mal/",
+      "destacada": true
+    },
+    {
+      "id": "007",
+      "fecha": "6 mar 2026",
+      "categoria": "EURÍBOR",
+      "titulo": "El euríbor cierra la semana con otro máximo de 2026: sube al 2,323%",
+      "resumen": "El euríbor termina la semana del 2 al 6 de marzo marcando un nuevo máximo anual en el 2,323%, acumulando subidas durante cinco jornadas consecutivas. La media mensual provisional se sitúa ya en el 2,281%, lo que encarece las hipotecas variables con revisión semestral aproximadamente 8,60 euros al mes.",
+      "url": "https://www.euribor.com.es/2026/03/06/euribor-semana-2026-marzo/",
+      "destacada": false
+    },
+    {
+      "id": "006",
+      "fecha": "4 mar 2026",
+      "categoria": "EURÍBOR",
+      "titulo": "El euríbor da un salto brusco: sube 75 milésimas en un solo día hasta el 2,307%",
+      "resumen": "El martes 4 de marzo el euríbor registró su mayor subida diaria del año al escalar 0,075 puntos hasta el 2,307%. Los mercados reaccionaron con nerviosismo ante la escalada del conflicto en Oriente Medio y el temor a una inflación resurgente en la eurozona.",
+      "url": "https://www.euribor.com.es/2026/03/03/euribor-hoy-3-de-marzo-de-2026/",
+      "destacada": false
+    },
+    {
+      "id": "005",
+      "fecha": "2 mar 2026",
+      "categoria": "EURÍBOR",
+      "titulo": "El euríbor arranca marzo al alza: comienza el mes en el 2,229%",
+      "resumen": "Marzo empieza con una subida de 7 milésimas, situando el euríbor en el 2,229%. Aunque la media provisional sigue por debajo de marzo de 2025 (2,398%), las sucesivas subidas de los primeros días del mes anticipan un mes más caro que febrero para las hipotecas variables con revisión semestral.",
+      "url": "https://www.euribor.com.es/2026/03/02/euribor-hoy-2-de-marzo-de-2026/",
+      "destacada": false
+    },
     {
       "id": "004",
       "fecha": "28 feb 2026",
       "categoria": "EURÍBOR",
       "titulo": "El euríbor sorprende en febrero: baja al 2,22% y abarata miles de hipotecas pese a la tensión global",
-      "resumen": "El euríbor cierra febrero en el 2,22%, su nivel más bajo en meses. Las hipotecas variables que se revisen ahora notarán una reducción significativa en su cuota mensual, un respiro para las familias pese al contexto de incertidumbre global.",
+      "resumen": "El euríbor cierra febrero en el 2,221%, su nivel más bajo en meses. Las hipotecas variables que se revisen ahora notarán una reducción significativa en su cuota mensual, un respiro para las familias pese al contexto de incertidumbre global.",
       "url": "https://www.elperiodico.com/es/economia/20260225/euribor-febrero-2026-baja-2-22-hipotecas-variables-cuotas-bancos-bce-127258609",
-      "destacada": true
+      "destacada": false
     },
     {
       "id": "003",
